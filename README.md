@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Himanshu (@himanshuvnm).
 - 🚀 Research Scientist | Applied Machine Learning | Scientific AI | Operator Learning | Graph Foundation Models
-- I work at the intersection of **operator-theoretic data-driven science, machine learning, and scientific computing**. My research focuses on building **next-generation foundation models for complex physical systems** using tools from:
+- I work at the intersection of **operator-theoretic data-driven science, machine learning, and scientific computing**.
+- My research focuses on building **next-generation foundation models for complex physical systems** using tools from:
 
 -- Operator Learning (Fourier Neural Operators, DeepONets, Koopman theory)
-- Graph Neural Networks & Graph Foundation Models
-- Spectral Analysis & Dynamical Systems
-- Scientific Machine Learning (SciML)
-- Data-driven PDE discovery and surrogate modeling
+-- Graph Neural Networks & Graph Foundation Models
+-- Spectral Analysis & Dynamical Systems
+-- Scientific Machine Learning (SciML)
+-- Data-driven PDE discovery and surrogate modeling
 
 ---
 
