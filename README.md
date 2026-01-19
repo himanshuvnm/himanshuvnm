@@ -89,7 +89,7 @@ I view modern AI systems as large-scale inference engines operating under inform
 ## 🛠 Technical Stack
 
 - **Languages:** Python, MATLAB, C++, Julia  
-- **ML Frameworks:** PyTorch, JAX, NumPy  
+- **ML Frameworks:** PyTorch, NumPy  
 - **Scientific Computing:** SciPy, spectral methods, PDE solvers  
 - **Modeling:** RKHS, kernel methods, operator learning, transformers  
 - **Systems:** distributed training, GPU acceleration, large-scale inference  
