@@ -76,7 +76,7 @@ This work reflects my interest in building AI systems that are not only powerful
 
 My research is driven by a central question:
 
-> **How can we build learning systems that are mathematically principled, data-efficient, interpretable, and scalable?**
+> **How can we build learning systems that are mathematically quantified, data-efficient, interpretable, and scalable?**
 
 I view modern AI systems as large-scale inference engines operating under information and resource constraints. My long-term goal is to contribute to the development of next-generation AI systems that combine:
 - mathematical structure  
@@ -98,7 +98,6 @@ I view modern AI systems as large-scale inference engines operating under inform
 
 ## 📫 Contact
 
-- Email: himanshuvnm@gmail.com  
 - GitHub: https://github.com/himanshuvnm  
 - LinkedIn: https://linkedin.com/in/himanshuvnm  
 
