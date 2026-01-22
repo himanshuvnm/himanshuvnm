@@ -1,7 +1,6 @@
 # Himanshu Singh
 
-I am an AI Researcher with a background in applied mathematics, scientific computing, and machine learning.  
-My current research focuses on:
+I am an AI Researcher with a background in pure and applied mathematics, scientific computing, and machine learning. My current research focuses on:
 
 - Mechanistic Interpretability of Transformer Models  
 - Sparse and Efficient Neural Networks  
