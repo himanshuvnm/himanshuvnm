@@ -34,5 +34,3 @@ My work bridges theory and practice, combining:
 - Learning Fourier Neural Operators
 - Sparse Neural Networks with Learned Masks
 - Kernel-based Operator Learning
-
-I am interested in research roles at frontier AI labs including OpenAI, Anthropic, and other organizations advancing safe and capable AI systems.
