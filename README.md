@@ -60,7 +60,7 @@ Develops an inverse geometric formulation of representation learning: rather tha
 
 Studies how kernel-induced representation geometry governs transient amplification in neural dynamical systems through a Koopman-operator perspective.
 
-[📄 Paper](https://openreview.net/pdf?id=ZKhFhmuyuq)
+[📄 Paper](https://openreview.net/pdf?id=ZKhFhmuyuq)· [💻 Project Repository](https://github.com/himanshuvnm/KEDMD_TA_SPIKES)
 
 ---
 
